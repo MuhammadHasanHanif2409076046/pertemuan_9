@@ -1,0 +1,29 @@
+# Berhitung Matematika
+
+print("Operasi penjumlahan (+)")
+# Penjumlahan
+h = int(input("Masukan nilai h="))
+a = int(input("Masukan nilai a ="))
+hasil1 = h + a
+print("Hasil penjumlahan =", hasil1)
+
+print("Operasi pengurangan (-)")
+# Pengurangan
+h = int(input("Masukan nilai h="))
+a = int(input("Masukan nilai a ="))
+hasil2 = h - a
+print("Hasil pengurangan = ", hasil2)
+
+print("Operasi perkalian (*)")
+# Perkalian
+h =int(input("Masukan nilai h="))
+a = int(input("Masukan nilai a ="))
+hasil3 = h * a
+print("Hasil perkalian =", hasil3)
+
+print("Operasi pembagian (/)")
+# Pembagian
+h=int(input("Masukan nilai h="))
+a = int(input("Masukan nilai a ="))
+hasil4 = h / a
+print("Hasil pembagian =", hasil4)
